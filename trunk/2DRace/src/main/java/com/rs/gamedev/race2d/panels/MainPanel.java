@@ -6,7 +6,6 @@ package com.rs.gamedev.race2d.panels;
 import java.awt.GridLayout;
 
 import javax.swing.JPanel;
-import javax.swing.border.Border;
 
 /**
  * @author RShah
